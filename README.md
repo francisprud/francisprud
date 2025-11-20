@@ -1,4 +1,7 @@
-## Hi there 👋
+🧑‍💻 Network Engineer
+🎓 Currently studing for CCNP
+🎱 AI as a hobby
+
 
 <!--
 **francisprud/francisprud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
